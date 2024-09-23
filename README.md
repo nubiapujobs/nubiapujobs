@@ -1,5 +1,15 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Nubia Pujol Faci
 
+Estou estudando no Colégio Estadual Do Paraná
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+nubia.faci@escola.pr.gov.br
+
+nubia.faci@escola.pr.gov.br
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgyMXp0bnI5ZDh4eXM1cnNsNHN5M3RicGxjcDVnemlpcHJqN3pheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CCXHZWV6F6O9VQ7FL/giphy.gif)
 <!--
 **nubiapujobs/nubiapujobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
